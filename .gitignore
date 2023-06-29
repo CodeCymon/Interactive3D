@@ -74,10 +74,5 @@ UEproject/Interactive3D/Plugins/*/Intermediate/*
 # Cache files for the editor to use
 UEproject/Interactive3D/DerivedDataCache/*
 
-UEproject/Interactive3D/Intermediate/CachedAssetRegistry.bin
-UEproject/Interactive3D/Saved/AutoScreenshot.png
-UEproject/Interactive3D/Saved/Config/WindowsEditor/Editor.ini
-UEproject/Interactive3D/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-UEproject/Interactive3D/Saved/Config/WorldState/1557959905.json
-UEproject/Interactive3D/Saved/Logs/Interactive3D.log
-UEproject/Interactive3D/Saved/SourceControl/UncontrolledChangelists.json
+# Assets Downloads from blenderkit addon
+Blender/assets/*
