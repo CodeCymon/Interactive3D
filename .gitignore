@@ -10,6 +10,9 @@
 # Exported FBX files
 *.fbx
 
+# Local file directory
+Local/*
+
 # Precompiled Headers
 *.gch
 *.pch
